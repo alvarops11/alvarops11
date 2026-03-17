@@ -1,3 +1,4 @@
+![Mi Foto](banner.png)
 # ¡Hola! Soy Álvaro
 
 💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma  
