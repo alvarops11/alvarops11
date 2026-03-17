@@ -1,4 +1,4 @@
-![Mi Foto](banner.png)
+![Mi Foto](Banner.png)
 # ¡Hola! Soy Álvaro
 
 💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma  
