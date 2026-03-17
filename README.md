@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Álvaro
+# ¡Hola! Soy Álvaro
 
 💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma  
 🚀 Apasionado por la programación, el desarrollo de software y seguir aprendiendo cada día  
