@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Álvaro
 
-<!--
-**alvarops11/alvarops11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma  
+🚀 Apasionado por la programación, el desarrollo de software y seguir aprendiendo cada día  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estadísticas de GitHub
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alvarops11&theme=gruvbox&locale=es)](https://git.io/streak-stats)
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+- ☕ Java
+- 🐍 Python
+- 🌐 HTML, CSS, JavaScript
+- 🗄️ SQL / SQLite
+- 🐧 Linux
+- 🔧 Git & GitHub
+
+---
+
+## 📌 Proyectos destacados
+
+🔹 Actualmente trabajando en proyectos para mejorar mis habilidades en desarrollo de aplicaciones  
+🔹 Interesado en crear soluciones prácticas y escalables  
+
+---
+
+## 📫 Contacto
+
+- GitHub: https://github.com/alvarops11  
+- LinkedIn: https://www.linkedin.com/in/%C3%A1lvaro-p%C3%A9rez-salvador-509685341/
+
+---
+
+⭐ ¡Gracias por pasarte por mi perfil!
